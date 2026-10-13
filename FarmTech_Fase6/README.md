@@ -10,10 +10,6 @@
 
 # FarmTech Solutions — Fase 6 | O despertar da Rede Neural
 
-## Nome do grupo
-
-**[INSERIR NOME DO GRUPO]**
-
 ## 👨‍🎓 Integrantes
 
 - **Caroline Coelho Mendes** — RM570370
@@ -162,10 +158,10 @@ Este repositório adapta as seções do [template FIAP `agodoi/templateFiapVfina
 - **Entregas 1 e 2:** **[INSERIR LINK DO COLAB]**
 - **Ir Além:** **[INSERIR LINK DO COLAB]**
 
-### 🎥 Vídeos demonstrativos (YouTube não listado, até 5 minutos)
+### 🎥 Vídeos demonstrativos
 
-- **Entregas 1 e 2:** **[INSERIR LINK DO VÍDEO]**
-- **Ir Além:** **[INSERIR LINK DO VÍDEO]**
+- **Entregas 1 e 2: (https://youtu.be/DgPUIjEyt3w)
+- **Ir Além:** (https://youtu.be/5vyjzbd4cBo)
 
 ## 🗃 Histórico de lançamentos
 

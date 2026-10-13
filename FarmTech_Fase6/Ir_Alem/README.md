@@ -59,8 +59,6 @@ Foram geradas máscaras válidas para as **80 imagens**, o que não significa co
 
 ![CNN do zero com e sem fundo](evidencias/cnn_zero_com_sem_fundo.png)
 
-[Métricas CSV](evidencias/metricas_resumidas.csv) · [Rodadas da CNN do zero](evidencias/cnn_zero_sementes.csv) · [Comparação imagem a imagem](evidencias/comparacao_pareada_teste.csv) · [Conclusões geradas pelo notebook](evidencias/conclusoes_ir_alem.md)
-
 ## Análise crítica e recomendação
 
 **Hipótese 1 — Transfer Learning (sustentada):** a MobileNetV2 acertou **8/8**, contra **3/8** da CNN do zero da Entrega 2 e média de **42,5%** da CNN do zero em 5 sementes. O resultado sustenta a utilidade prática das representações ImageNet nesta base, mas **não é uma prova causal isolada**, porque os modelos também diferem em arquitetura e resolução, e a amostra é pequena. A validação já chegou a 100% antes do Fine Tuning, então o ganho específico dessa etapa não é mensurável aqui.
@@ -80,9 +78,9 @@ Foram geradas máscaras válidas para as **80 imagens**, o que não significa co
 
 **Link do Colab:** [INSERIR LINK DO COLAB]
 
-## Vídeo demonstrativo (YouTube não listado, até 5 minutos)
+## Vídeo demonstrativo
 
-**Link do vídeo:** [INSERIR LINK DO VÍDEO]
+**Link do vídeo:** (https://youtu.be/5vyjzbd4cBo)
 
 ## Referências técnicas
 
