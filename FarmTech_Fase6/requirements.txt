@@ -1,0 +1,8 @@
+# Executar no Google Colab; instalação principal via yolov5/requirements.txt
+# Dependências suplementares (muitas já incluídas no Colab):
+nbformat>=5
+Pillow>=9
+pandas>=1.5
+PyYAML>=6
+matplotlib>=3.5
+scikit-learn>=1.2

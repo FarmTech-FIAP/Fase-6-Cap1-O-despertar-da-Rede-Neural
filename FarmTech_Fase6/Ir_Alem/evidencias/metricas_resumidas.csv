@@ -1,0 +1,3 @@
+abordagem,acertos_teste,total_teste,acuracia_teste,f1_macro,tempo_treino_min,inferencia_rede_ms,segmentacao_ms,pipeline_total_ms
+MobileNetV2 - imagem inteira,8,8,1.0,1.0,0.441,6.05,0.0,6.05
+MobileNetV2 - imagem sem fundo,8,8,1.0,1.0,0.337,5.8,144.41,150.22

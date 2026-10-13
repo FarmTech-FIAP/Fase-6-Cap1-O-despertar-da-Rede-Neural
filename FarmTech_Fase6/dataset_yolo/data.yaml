@@ -1,0 +1,7 @@
+# A execução do notebook gera /content/dataset_farmtech_local/data.yaml com path absoluto.
+path: ./dataset_yolo
+train: images/train
+val: images/val
+test: images/test
+nc: 2
+names: [vaca, equipamento_pesado]

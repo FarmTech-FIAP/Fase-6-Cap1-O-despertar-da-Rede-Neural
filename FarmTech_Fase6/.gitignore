@@ -1,0 +1,5 @@
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+.env
+# outputs produzidos no Colab: adicione evidências selecionadas após executar
