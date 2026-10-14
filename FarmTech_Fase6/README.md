@@ -155,8 +155,8 @@ Este repositório adapta as seções do [template FIAP `agodoi/templateFiapVfina
 
 ### 📓 Acesso direto aos notebooks no Colab
 
-- **Entregas 1 e 2:** **[INSERIR LINK DO COLAB]**
-- **Ir Além:** **[INSERIR LINK DO COLAB]**
+- **Entregas 1 e 2:https://colab.research.google.com/drive/1J4nYCn0zWLhKdVcVi9-hRl3UNokxOhtz?usp=sharing
+- **Ir Além:** https://colab.research.google.com/drive/1jGgIC_1SOY7aWIIEG3KrN9d9eccyAqRe?usp=sharing
 
 ### 🎥 Vídeos demonstrativos
 

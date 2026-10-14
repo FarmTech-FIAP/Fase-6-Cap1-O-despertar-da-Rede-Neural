@@ -76,7 +76,7 @@ Foram geradas máscaras válidas para as **80 imagens**, o que não significa co
 3. Execute em ordem. O notebook reutiliza a YOLO de 60 épocas em `Meu Drive/FarmTech_Fase6/resultados_revisao/yolo_custom/epocas_60/weights/best.pt`; se ela não existir, treina uma YOLO auxiliar sem usar as imagens de teste.
 4. As saídas ficam em `Meu Drive/FarmTech_Fase6/resultados_ir_alem/`.
 
-**Link do Colab:** [INSERIR LINK DO COLAB]
+**Link do Colab:** https://colab.research.google.com/drive/1jGgIC_1SOY7aWIIEG3KrN9d9eccyAqRe?usp=sharing
 
 ## Vídeo demonstrativo
 
